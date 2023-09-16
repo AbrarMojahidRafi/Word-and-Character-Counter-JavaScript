@@ -1,3 +1,3 @@
 # Word-and-Character-Counter-JavaScript
 
-#### Demo: 
+#### Demo: https://word-and-character-counter-rafi.netlify.app/ 
